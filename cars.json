@@ -1,0 +1,238 @@
+{
+    "firms": [
+        {
+            "urn": "acura",
+            "name": "Acura",
+            "country_name": "Япония",
+            "name_rus": "Акура"
+        },
+        {
+            "urn": "audi",
+            "name": "Audi",
+            "country_name": "Германия",
+            "name_rus": "Ауди"
+        },
+        {
+            "urn": "bmw",
+            "name": "BMW",
+            "country_name": "Германия",
+            "name_rus": "БМВ"
+        },
+        {
+            "urn": "cadillac",
+            "name": "Cadillac",
+            "country_name": "Соединенные Штаты",
+            "name_rus": "Кадиллак"
+        },
+        {
+            "urn": "chery",
+            "name": "Chery",
+            "country_name": "Китай",
+            "name_rus": "Чери"
+        },
+        {
+            "urn": "chevrolet",
+            "name": "Chevrolet",
+            "country_name": "Соединенные Штаты",
+            "name_rus": "Чевролет"
+        },
+        {
+            "urn": "chrysler",
+            "name": "Chrysler",
+            "country_name": "Соединенные Штаты",
+            "name_rus": "Крайслер"
+        },
+        {
+            "urn": "citroen",
+            "name": "Citroen",
+            "country_name": "Франция",
+            "name_rus": "Ситроен"
+        },
+        {
+            "urn": "daewoo",
+            "name": "Daewoo",
+            "country_name": "Корея, Республика",
+            "name_rus": "Дэу"
+        },
+        {
+            "urn": "dodge",
+            "name": "Dodge",
+            "country_name": "Соединенные Штаты",
+            "name_rus": "Додж"
+        },
+        {
+            "urn": "fiat",
+            "name": "Fiat",
+            "country_name": "Италия",
+            "name_rus": "Фиат"
+        },
+        {
+            "urn": "ford",
+            "name": "Ford",
+            "country_name": "Соединенные Штаты",
+            "name_rus": "Форд"
+        },
+        {
+            "urn": "ford_america",
+            "name": "Ford America",
+            "country_name": "Соединенные Штаты",
+            "name_rus": "Форд Америка"
+        },
+        {
+            "urn": "gm",
+            "name": "GM",
+            "country_name": "Соединенные Штаты",
+            "name_rus": "Дженерал Моторс"
+        },
+        {
+            "urn": "genesis",
+            "name": "Genesis",
+            "country_name": "Корея, Республика",
+            "name_rus": "Дженесис"
+        },
+        {
+            "urn": "great_wall",
+            "name": "Great Wall",
+            "country_name": "Китай",
+            "name_rus": "Греат Волл"
+        },
+        {
+            "urn": "honda",
+            "name": "Honda",
+            "country_name": "Япония",
+            "name_rus": "Хонда"
+        },
+        {
+            "urn": "hyundai",
+            "name": "Hyundai",
+            "country_name": "Корея, Республика",
+            "name_rus": "Хюндэй"
+        },
+        {
+            "urn": "infiniti",
+            "name": "Infiniti",
+            "country_name": "Япония",
+            "name_rus": "Инфинити"
+        },
+        {
+            "urn": "jaguar",
+            "name": "Jaguar",
+            "country_name": "Соединенное Королевство",
+            "name_rus": "Ягуар"
+        },
+        {
+            "urn": "kia",
+            "name": "Kia",
+            "country_name": "Корея, Республика",
+            "name_rus": "Киа"
+        },
+        {
+            "urn": "lexus",
+            "name": "Lexus",
+            "country_name": "Япония",
+            "name_rus": "Лексус"
+        },
+        {
+            "urn": "mazda",
+            "name": "Mazda",
+            "country_name": "Япония",
+            "name_rus": "Мазда"
+        },
+        {
+            "urn": "mercedes_benz",
+            "name": "Mercedes Benz",
+            "country_name": "Германия",
+            "name_rus": "Мерседес Бенц"
+        },
+        {
+            "urn": "mitsubishi",
+            "name": "Mitsubishi",
+            "country_name": "Япония",
+            "name_rus": "Мицубиши"
+        },
+        {
+            "urn": "nissan",
+            "name": "Nissan",
+            "country_name": "Япония",
+            "name_rus": "Ниссан"
+        },
+        {
+            "urn": "opel",
+            "name": "Opel",
+            "country_name": "Германия",
+            "name_rus": "Опель"
+        },
+        {
+            "urn": "peugeot",
+            "name": "Peugeot",
+            "country_name": "Франция",
+            "name_rus": "Пежо"
+        },
+        {
+            "urn": "porsche",
+            "name": "Porsche",
+            "country_name": "Германия",
+            "name_rus": "Порш"
+        },
+        {
+            "urn": "renault",
+            "name": "Renault",
+            "country_name": "Франция",
+            "name_rus": "Рено"
+        },
+        {
+            "urn": "saab",
+            "name": "SAAB",
+            "country_name": "Швеция",
+            "name_rus": "СААБ"
+        },
+        {
+            "urn": "seat",
+            "name": "Seat",
+            "country_name": "Германия",
+            "name_rus": "Сеат"
+        },
+        {
+            "urn": "skoda",
+            "name": "Skoda",
+            "country_name": "Чешская республика",
+            "name_rus": "Шкoдa"
+        },
+        {
+            "urn": "subaru",
+            "name": "Subaru",
+            "country_name": "Япония",
+            "name_rus": "Субару"
+        },
+        {
+            "urn": "suzuki",
+            "name": "Suzuki",
+            "country_name": "Япония",
+            "name_rus": "Сузуки"
+        },
+        {
+            "urn": "toyota",
+            "name": "Toyota",
+            "country_name": "Япония",
+            "name_rus": "Тойота"
+        },
+        {
+            "urn": "vaz",
+            "name": "VAZ",
+            "country_name": "Россия",
+            "name_rus": "ВАЗ"
+        },
+        {
+            "urn": "vw",
+            "name": "VW",
+            "country_name": "Германия",
+            "name_rus": "Фольксваген"
+        },
+        {
+            "urn": "volvo",
+            "name": "Volvo",
+            "country_name": "Швеция",
+            "name_rus": "Вольво"
+        }
+    ]
+}

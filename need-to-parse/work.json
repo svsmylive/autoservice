@@ -1,0 +1,625 @@
+{
+    "works": [
+        {
+            "part_id": 14030,
+            "part_name": "Аккумулятор",
+            "urn": "akkumulyator",
+            "part_genitive_case": "Аккумулятора",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 4137,
+            "part_name": "Амортизатор кабины",
+            "urn": "amortizator_kabini",
+            "part_genitive_case": "Амортизатора кабины",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 4018,
+            "part_name": "Амортизатор капота",
+            "urn": "amortizator_kapota",
+            "part_genitive_case": "Амортизатора капота",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 4007,
+            "part_name": "Амортизатор крышки багажника",
+            "urn": "amortizator_krishki_bagazhnika",
+            "part_genitive_case": "Амортизатора крышки багажника",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 7135,
+            "part_name": "Амортизатор передний",
+            "urn": "amortizator_peredniy",
+            "part_genitive_case": "Амортизатора переднего",
+            "group_name": "Подвеска передних колёс",
+            "group_url": "podveska_perednih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 7134,
+            "part_name": "Амортизатор передний левый",
+            "urn": "amortizator_peredniy_leviy",
+            "part_genitive_case": "Амортизатора переднего левого",
+            "group_name": "Подвеска передних колёс",
+            "group_url": "podveska_perednih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 7133,
+            "part_name": "Амортизатор передний правый",
+            "urn": "amortizator_peredniy_praviy",
+            "part_genitive_case": "Амортизатора переднего правого",
+            "group_name": "Подвеска передних колёс",
+            "group_url": "podveska_perednih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 4138,
+            "part_name": "Амортизатор решетки",
+            "urn": "amortizator_reshetki",
+            "part_genitive_case": "Амортизатора решетки",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 1934,
+            "part_name": "Амортизатор сиденья",
+            "urn": "amortizator_sidenya",
+            "part_genitive_case": "Амортизатора сиденья",
+            "group_name": "Кузов внутри",
+            "group_url": "kuzov_vnutri",
+            "synonyms": null
+        },
+        {
+            "part_id": 2400,
+            "part_name": "Амортизатор стекла багажника",
+            "urn": "amortizator_stekla_bagazhnika",
+            "part_genitive_case": "Амортизатора стекла багажника",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 3393,
+            "part_name": "Амортизаторы задние к-кт",
+            "urn": "amortizatori_zadnie_k-kt",
+            "part_genitive_case": "Амортизаторов задних к-кт",
+            "group_name": "Подвеска задних колёс",
+            "group_url": "podveska_zadnih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 14203,
+            "part_name": "Антенна",
+            "urn": "antenna",
+            "part_genitive_case": "Антенны",
+            "group_name": "Сопутствующие товары",
+            "group_url": "soputstvuyuschie_tovari",
+            "synonyms": null
+        },
+        {
+            "part_id": 14272,
+            "part_name": "Антенна электрическая",
+            "urn": "antenna_elektricheskaya",
+            "part_genitive_case": "Антенны электрической",
+            "group_name": "Сопутствующие товары",
+            "group_url": "soputstvuyuschie_tovari",
+            "synonyms": null
+        },
+        {
+            "part_id": 1501,
+            "part_name": "Арка заднего крыла левая",
+            "urn": "arka_zadnego_krila_levaya",
+            "part_genitive_case": "Арки заднего крыла левая",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 1502,
+            "part_name": "Арка заднего крыла правая",
+            "urn": "arka_zadnego_krila_pravaya",
+            "part_genitive_case": "Арки заднего крыла правая",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 1499,
+            "part_name": "Арка переднего крыла левая",
+            "urn": "arka_perednego_krila_levaya",
+            "part_genitive_case": "Арки переднего крыла левая",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 1500,
+            "part_name": "Арка переднего крыла правая",
+            "urn": "arka_perednego_krila_pravaya",
+            "part_genitive_case": "Арки переднего крыла правая",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 1791,
+            "part_name": "Багажник на крышу",
+            "urn": "bagazhnik_na_krishu",
+            "part_genitive_case": "Багажника на крышу",
+            "group_name": "Сопутствующие товары",
+            "group_url": "soputstvuyuschie_tovari",
+            "synonyms": null
+        },
+        {
+            "part_id": 2725,
+            "part_name": "Бак для AdBlue",
+            "urn": "bak_dlya_adblue",
+            "part_genitive_case": "Бака для AdBlue",
+            "group_name": "Система выпуска отработанных газов",
+            "group_url": "sistema_vipuska_otrabotannih_gazov",
+            "synonyms": null
+        },
+        {
+            "part_id": 3021,
+            "part_name": "Бак топливный",
+            "urn": "bak_toplivniy",
+            "part_genitive_case": "Бака топливного",
+            "group_name": "Кузов внутри",
+            "group_url": "kuzov_vnutri",
+            "synonyms": null
+        },
+        {
+            "part_id": 2470,
+            "part_name": "Балансир",
+            "urn": "balansir",
+            "part_genitive_case": "Балансира",
+            "group_name": "Подвеска задних колёс",
+            "group_url": "podveska_zadnih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 6150,
+            "part_name": "Балка задняя",
+            "urn": "balka_zadnyaya",
+            "part_genitive_case": "Балки задней",
+            "group_name": "Подвеска задних колёс",
+            "group_url": "podveska_zadnih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 7172,
+            "part_name": "Балка передняя (крепление продольных тяг)",
+            "urn": "balka_perednyaya_kreplenie_prodolnih_tyag",
+            "part_genitive_case": "Балки передней (крепление продольных тяг)",
+            "group_name": "Подвеска передних колёс",
+            "group_url": "podveska_perednih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 7202,
+            "part_name": "Балка передняя поперечная",
+            "urn": "balka_perednyaya_poperechnaya",
+            "part_genitive_case": "Балки передней поперечной",
+            "group_name": "Подвеска передних колёс",
+            "group_url": "podveska_perednih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 7144,
+            "part_name": "Балка передняя продольная",
+            "urn": "balka_perednyaya_prodolnaya",
+            "part_genitive_case": "Балки передней продольной",
+            "group_name": "Подвеска передних колёс",
+            "group_url": "podveska_perednih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 2243,
+            "part_name": "Балка подмоторная",
+            "urn": "balka_podmotornaya",
+            "part_genitive_case": "Балки подмоторной",
+            "group_name": "Подвеска передних колёс",
+            "group_url": "podveska_perednih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 2242,
+            "part_name": "Балка подрадиаторная",
+            "urn": "balka_podradiatornaya",
+            "part_genitive_case": "Балки подрадиаторной",
+            "group_name": "Подвеска передних колёс",
+            "group_url": "podveska_perednih_kolyos",
+            "synonyms": null
+        },
+        {
+            "part_id": 4035,
+            "part_name": "Бампер задний",
+            "urn": "bamper_zadniy",
+            "part_genitive_case": "Бампера заднего",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 4102,
+            "part_name": "Бампер передний",
+            "urn": "bamper_peredniy",
+            "part_genitive_case": "Бампера переднего",
+            "group_name": "Кузов наружные элементы",
+            "group_url": "kuzov_naruzhnie_elementi",
+            "synonyms": null
+        },
+        {
+            "part_id": 2349,
+            "part_name": "Барабан АКПП",
+            "urn": "baraban_akpp",
+            "part_genitive_case": "Барабана АКПП",
+            "group_name": "Трансмиссия",
+            "group_url": "transmissiya",
+            "synonyms": null
+        },
+        {
+            "part_id": 11001,
+            "part_name": "Барабан тормозной",
+            "urn": "baraban_tormoznoy",
+            "part_genitive_case": "Барабана тормозного",
+            "group_name": "Тормозная система",
+            "group_url": "tormoznaya_sistema",
+            "synonyms": null
+        },
+        {
+            "part_id": 3187,
+            "part_name": "Бардачок",
+            "urn": "bardachok",
+            "part_genitive_case": "Бардачка",
+            "group_name": "Кузов внутри",
+            "group_url": "kuzov_vnutri",
+            "synonyms": null
+        },
+        {
+            "part_id": 9045,
+            "part_name": "Бачок гидроусилителя",
+            "urn": "bachok_gidrousilitelya",
+            "part_genitive_case": "Бачка гидроусилителя",
+            "group_name": "Рулевое управление",
+            "group_url": "rulevoe_upravlenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 11035,
+            "part_name": "Бачок главного тормозного цилиндра",
+            "urn": "bachok_glavnogo_tormoznogo_tsilindra",
+            "part_genitive_case": "Бачка главного тормозного цилиндра",
+            "group_name": "Тормозная система",
+            "group_url": "tormoznaya_sistema",
+            "synonyms": null
+        },
+        {
+            "part_id": 1802,
+            "part_name": "Бачок главного цилиндра сцепления",
+            "urn": "bachok_glavnogo_tsilindra_stsepleniya",
+            "part_genitive_case": "Бачка главного цилиндра сцепления",
+            "group_name": "Трансмиссия",
+            "group_url": "transmissiya",
+            "synonyms": null
+        },
+        {
+            "part_id": 3190,
+            "part_name": "Бачок омывателя заднего стекла",
+            "urn": "bachok_omivatelya_zadnego_stekla",
+            "part_genitive_case": "Бачка омывателя заднего стекла",
+            "group_name": "Кузов внутри",
+            "group_url": "kuzov_vnutri",
+            "synonyms": null
+        },
+        {
+            "part_id": 3084,
+            "part_name": "Бачок омывателя лобового стекла",
+            "urn": "bachok_omivatelya_lobovogo_stekla",
+            "part_genitive_case": "Бачка омывателя лобового стекла",
+            "group_name": "Кузов внутри",
+            "group_url": "kuzov_vnutri",
+            "synonyms": null
+        },
+        {
+            "part_id": 3178,
+            "part_name": "Бачок омывателя фар",
+            "urn": "bachok_omivatelya_far",
+            "part_genitive_case": "Бачка омывателя фар",
+            "group_name": "Кузов внутри",
+            "group_url": "kuzov_vnutri",
+            "synonyms": null
+        },
+        {
+            "part_id": 1134,
+            "part_name": "Бачок расширительный",
+            "urn": "bachok_rasshiritelniy",
+            "part_genitive_case": "Бачка расширительного",
+            "group_name": "Система охлаждения",
+            "group_url": "sistema_ohlazhdeniya",
+            "synonyms": null
+        },
+        {
+            "part_id": 2395,
+            "part_name": "Бачок расширительный топливной системы",
+            "urn": "bachok_rasshiritelniy_toplivnoy_sistemi",
+            "part_genitive_case": "Бачка расширительного топливной системы",
+            "group_name": "Кузов внутри",
+            "group_url": "kuzov_vnutri",
+            "synonyms": null
+        },
+        {
+            "part_id": 1001,
+            "part_name": "Башмак натяжителя",
+            "urn": "bashmak_natyazhitelya",
+            "part_genitive_case": "Башмака натяжителя",
+            "group_name": "Двигатель",
+            "group_url": "dvigatel",
+            "synonyms": null
+        },
+        {
+            "part_id": 13001,
+            "part_name": "Бегунок",
+            "urn": "begunok",
+            "part_genitive_case": "Бегунка",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13099,
+            "part_name": "Бендикс",
+            "urn": "bendiks",
+            "part_genitive_case": "Бендикса",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13375,
+            "part_name": "Блок ABS (насос)",
+            "urn": "blok_abs_nasos",
+            "part_genitive_case": "Блока ABS (насоса)",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 2038,
+            "part_name": "Блок биксеноновых ламп",
+            "urn": "blok_biksenonovih_lamp",
+            "part_genitive_case": "Блока биксеноновых ламп",
+            "group_name": "Оптика",
+            "group_url": "optika",
+            "synonyms": null
+        },
+        {
+            "part_id": 1397,
+            "part_name": "Блок двигателя",
+            "urn": "blok_dvigatelya",
+            "part_genitive_case": "Блока двигателя",
+            "group_name": "Двигатель",
+            "group_url": "dvigatel",
+            "synonyms": null
+        },
+        {
+            "part_id": 2296,
+            "part_name": "Блок клапанов",
+            "urn": "blok_klapanov",
+            "part_genitive_case": "Блока клапанов",
+            "group_name": "Трансмиссия",
+            "group_url": "transmissiya",
+            "synonyms": null
+        },
+        {
+            "part_id": 13400,
+            "part_name": "Блок кнопок",
+            "urn": "blok_knopok",
+            "part_genitive_case": "Блока кнопок",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 2417,
+            "part_name": "Блок кнопок управления сиденьем",
+            "urn": "blok_knopok_upravleniya_sidenem",
+            "part_genitive_case": "Блока кнопок управления сиденьем",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13412,
+            "part_name": "Блок комфорта",
+            "urn": "blok_komforta",
+            "part_genitive_case": "Блока комфорта",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 1882,
+            "part_name": "Блок ксеноновой лампы",
+            "urn": "blok_ksenonovoy_lampi",
+            "part_genitive_case": "Блока ксеноновой лампы",
+            "group_name": "Оптика",
+            "group_url": "optika",
+            "synonyms": null
+        },
+        {
+            "part_id": 13324,
+            "part_name": "Блок открывания багажника",
+            "urn": "blok_otkrivaniya_bagazhnika",
+            "part_genitive_case": "Блока открывания багажника",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 3236,
+            "part_name": "Блок педалей",
+            "urn": "blok_pedaley",
+            "part_genitive_case": "Блока педалей",
+            "group_name": "Кузов внутри",
+            "group_url": "kuzov_vnutri",
+            "synonyms": null
+        },
+        {
+            "part_id": 1800,
+            "part_name": "Блок положения кулисы АКПП",
+            "urn": "blok_polozheniya_kulisi_akpp",
+            "part_genitive_case": "Блока положения кулисы АКПП",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13284,
+            "part_name": "Блок предохранителей",
+            "urn": "blok_predohraniteley",
+            "part_genitive_case": "Блока предохранителей",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13371,
+            "part_name": "Блок реле",
+            "urn": "blok_rele",
+            "part_genitive_case": "Блока реле",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13435,
+            "part_name": "Блок сигнализации (штатной)",
+            "urn": "blok_signalizatsii_shtatnoy",
+            "part_genitive_case": "Блока сигнализации (штатной)",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13359,
+            "part_name": "Блок управления ABS",
+            "urn": "blok_upravleniya_abs",
+            "part_genitive_case": "Блока управления ABS",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 1700,
+            "part_name": "Блок управления AIR BAG",
+            "urn": "blok_upravleniya_air_bag",
+            "part_genitive_case": "Блока управления AIR BAG",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 1212,
+            "part_name": "Блок управления ESP",
+            "urn": "blok_upravleniya_esp",
+            "part_genitive_case": "Блока управления ESP",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13361,
+            "part_name": "Блок управления АКПП",
+            "urn": "blok_upravleniya_akpp",
+            "part_genitive_case": "Блока управления АКПП",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13319,
+            "part_name": "Блок управления вентилятором",
+            "urn": "blok_upravleniya_ventilyatorom",
+            "part_genitive_case": "Блока управления вентилятором",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13360,
+            "part_name": "Блок управления двигателем",
+            "urn": "blok_upravleniya_dvigatelem",
+            "part_genitive_case": "Блока управления двигателем",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13129,
+            "part_name": "Блок управления зажиганием",
+            "urn": "blok_upravleniya_zazhiganiem",
+            "part_genitive_case": "Блока управления зажиганием",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13418,
+            "part_name": "Блок управления климатической установкой",
+            "urn": "blok_upravleniya_klimaticheskoy_ustanovkoy",
+            "part_genitive_case": "Блока управления климатической установкой",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 3301,
+            "part_name": "Блок управления муфты Haldex",
+            "urn": "blok_upravleniya_mufti_haldex",
+            "part_genitive_case": "Блока управления муфты Haldex",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13391,
+            "part_name": "Блок управления омывателем",
+            "urn": "blok_upravleniya_omivatelem",
+            "part_genitive_case": "Блока управления омывателем",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 13355,
+            "part_name": "Блок управления отопителем",
+            "urn": "blok_upravleniya_otopitelem",
+            "part_genitive_case": "Блока управления отопителем",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        },
+        {
+            "part_id": 2425,
+            "part_name": "Блок управления парковочным тормозом",
+            "urn": "blok_upravleniya_parkovochnim_tormozom",
+            "part_genitive_case": "Блока управления парковочным тормозом",
+            "group_name": "Электрооснащение",
+            "group_url": "elektroosnaschenie",
+            "synonyms": null
+        }
+    ]
+}
